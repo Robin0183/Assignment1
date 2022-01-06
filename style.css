@@ -77,8 +77,12 @@ h1 {
   margin-left: 0;
 }
 .developer-image {
-  width: 55%;
+  width: 60%;
   margin-left: 245px;
+  margin-right: 45px;
+}
+.limits {
+  margin-right: 35%;
 }
 .footer {
   text-align: center;
